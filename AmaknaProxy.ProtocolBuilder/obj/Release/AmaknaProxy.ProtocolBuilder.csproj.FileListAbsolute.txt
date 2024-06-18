@@ -1,0 +1,11 @@
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\bin\Release\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\obj\Release\AmaknaProxy.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\obj\Release\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\SVN_AmaknaProxy\AmaknaProxy\AmaknaProxy.ProtocolBuilder\obj\Release\AmaknaCore.ProtocolBuilder.pdb

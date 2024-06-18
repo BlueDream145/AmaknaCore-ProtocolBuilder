@@ -1,0 +1,137 @@
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.dll
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Microsoft.VisualStudio.TextTemplating.10.0.xml
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+G:\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Amakna\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+F:\Amakna\Bot\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\Sources\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Admin\Desktop\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Workspace\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+X:\Dropbox\Work\AmaknaCore\Dev' Tools\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\MessageTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\TypeTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\EnumTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\Helper.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\Templates\DataCenterTemplate.tt
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.pdb
+C:\Users\Alexandre\Desktop\Work\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Work\Dev' Tools\AmaknaCore\AmaknaCore.ProtocolBuilder\bin\Debug\AmaknaCore.ProtocolBuilder.exe.config
+C:\Users\Alexandre\Desktop\Work\Dev' Tools\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.exe
+C:\Users\Alexandre\Desktop\Work\Dev' Tools\AmaknaCore\AmaknaCore.ProtocolBuilder\obj\Debug\AmaknaCore.ProtocolBuilder.pdb
